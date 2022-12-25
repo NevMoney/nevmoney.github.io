@@ -1,93 +1,98 @@
-.nav-link{
-    color: lime;
+.nav-link {
+  color: lime;
 }
 
-.navbar{
-    background-color: black;
+.navbar {
+  background-color: black;
 }
 
-body{
-    background-color: black;
+body {
+  background-color: black;
 }
 
-footer{
-    margin-left: 10px;
+footer {
+  margin-left: 10px;
 }
 
-#nevPic{
-    image-rendering: auto;
-    filter: grayscale();
-    opacity: 0.7;
-    transform: translate(7%, -75%);
-    position: relative;
-    z-index: 1;
+#nevPic {
+  image-rendering: auto;
+  filter: grayscale();
+  opacity: 0.7;
+  transform: translate(7%, -75%);
+  position: relative;
+  z-index: 1;
 }
 
-#nevIntro{
-    margin-top: 80px;
-    margin-left: 35%;
-    position: relative;
-    z-index: 2;
-    color: rgb(162, 162, 162);
+#nevIntro {
+  margin-top: 80px;
+  margin-left: 35%;
+  position: relative;
+  z-index: 2;
+  color: rgb(162, 162, 162);
 }
 
-.smallTitle{
-    color: rgb(57, 231, 57);
+.smallTitle {
+  color: rgb(57, 231, 57);
 }
 
-ul{
-    list-style-type: none;
-    margin-left: -30px;
+ul {
+  list-style-type: none;
+  margin-left: -30px;
 }
 
-#myKnowledge{
-    margin-top: -210px;
-    margin-bottom: 50px;
+#myKnowledge {
+  margin-top: -210px;
+  margin-bottom: 50px;
 }
 
-.aboutNev{
-    margin-top: 80px;
-    padding-right: 15px;
+.aboutNev {
+  margin-top: 80px;
+  padding-right: 15px;
 }
 
-.bigTitle{
-    font-size: 95px;
-    margin-left: 10px;
-    font-family: Impact, 'Arial Narrow Bold', sans-serif;
-    font-weight: bolder;
-    font-stretch: expanded;
-    color: whitesmoke;
+.bigTitle {
+  font-size: 95px;
+  margin-left: 10px;
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+  font-weight: bolder;
+  font-stretch: expanded;
+  color: whitesmoke;
 }
 
-#workInfo{
-    margin-top: 80px;
-    margin-bottom: 80px;
+#workInfo {
+  margin-top: 80px;
+  margin-bottom: 80px;
 }
 
-#myProjects{
-    margin-top: 80px;
-    margin-bottom: 150px;
+#myProjects {
+  margin-top: 80px;
+  margin-bottom: 150px;
 }
 
-.link{
-    color: #9c8cc6;
-    text-decoration: none;
-}
-a{
-    text-decoration: none;
-    color: #9c8cc6;
+.link {
+  color: #9c8cc6;
+  text-decoration: none;
 }
 
-a:hover{
-    color: limegreen;
+a {
+  text-decoration: none;
+  color: #9c8cc6;
 }
 
-.footerLink{
-    color: lime;
+a:hover {
+  color: limegreen;
 }
 
-.cardIcon{
-    color: magenta;
-    text-align: center;
-    font-size: xx-large;
+.footerLink {
+  color: lime;
+}
+
+.cardIcon {
+  color: magenta;
+  text-align: center;
+  font-size: xx-large;
+}
+
+.col-sm-4 {
+  margin-top: 2rem;
 }
